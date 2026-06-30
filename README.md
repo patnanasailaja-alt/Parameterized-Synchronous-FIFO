@@ -18,13 +18,13 @@ This project involves the design and verification of a Parameterized Synchronous
 
 🔧 Design Highlights
 
-✔ Parameterized Data Width and FIFO Depth
-✔ Single Clock (Synchronous) FIFO Architecture
-✔ Memory Array Implementation
-✔ Read Pointer & Write Pointer Logic
-✔ Full and Empty Flag Generation
-✔ Simultaneous Read and Write Support
-✔ Modular and Reusable RTL Design
+* Parameterized Data Width and FIFO Depth
+* Single Clock (Synchronous) FIFO Architecture
+* Memory Array Implementation
+* Read Pointer & Write Pointer Logic
+* Full and Empty Flag Generation
+* Simultaneous Read and Write Support
+* Modular and Reusable RTL Design
 
 🏗️ Architecture
 
@@ -51,7 +51,7 @@ This project involves the design and verification of a Parameterized Synchronous
 📊 Simulation & RTL Validation
 📈 Functional Simulation
 
--The design was simulated using Icarus Verilog, and the output waveforms were analyzed using GTKWave.
+* The design was simulated using Icarus Verilog, and the output waveforms were analyzed using GTKWave.
 
 -The simulation verified:
 
@@ -111,7 +111,7 @@ This project involves the design and verification of a Parameterized Synchronous
 * B.Tech (Electrical & Electronics Engineering)
 * VLSI Front-End Design | RTL Design & Verification Enthusiast
 
-🔗 GitHub: 
+🔗 GitHub: https://github.com/patnanasailaja-alt/Parameterized-Synchronous-FIFO.git
 
 #VLSI #RTLDesign #Verilog #SystemVerilog #DigitalDesign #FunctionalVerification #FIFO #FrontEndDesign #Semiconductor #Vivado #GTKWave #IcarusVerilog #GitHub #EngineeringProjects #EEE
 
