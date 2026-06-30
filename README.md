@@ -17,6 +17,7 @@ This project involves the design and verification of a Parameterized Synchronous
 - Develop a synthesizable RTL design suitable for FPGA and ASIC workflows.
 
 🔧 Design Highlights
+
 ✔ Parameterized Data Width and FIFO Depth
 ✔ Single Clock (Synchronous) FIFO Architecture
 ✔ Memory Array Implementation
@@ -70,12 +71,12 @@ This project involves the design and verification of a Parameterized Synchronous
 
 🛠️ Tools & Technologies
 
-~ Verilog HDL
-~ Vivado Design Suite
-~ Icarus Verilog
-~ GTKWave
-~ Visual Studio Code
-~ Git & GitHub
+-  Verilog HDL
+- Vivado Design Suite
+- Icarus Verilog
+- GTKWave
+- Visual Studio Code
+- Git & GitHub
 
 📚 Key Learnings
 
@@ -100,7 +101,7 @@ This project involves the design and verification of a Parameterized Synchronous
 - Data Buffering Applications
 - FPGA-Based Designs
 - Embedded Systems
-- 
+  
 🌱 Continuous Learning
 
  Every project is an opportunity to deepen my understanding of digital design concepts and improve my RTL development and verification skills. I look forward to exploring more complex designs and expanding my knowledge of front-end VLSI design and verification.
