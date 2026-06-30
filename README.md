@@ -36,16 +36,16 @@ This project involves the design and verification of a Parameterized Synchronous
 * Status Flags – Indicates FIFO Full and Empty conditions.
 
 🧪 Verification Strategy
-- A Verilog testbench was developed to validate the design under different operating conditions, including:
+* A Verilog testbench was developed to validate the design under different operating conditions, including:
 
-~ Reset Operation
-~ Sequential Write Operations
-~ Sequential Read Operations
-~ FIFO Full Condition
-~ FIFO Empty Condition
-~ Simultaneous Read and Write Operations
-~ Pointer Update Verification
-~ FIFO Data Ordering (First-In, First-Out)
+- Reset Operation
+- Sequential Write Operations
+- Sequential Read Operations
+- FIFO Full Condition
+- FIFO Empty Condition
+- Simultaneous Read and Write Operations
+-  Pointer Update Verification
+- FIFO Data Ordering (First-In, First-Out)
 
 📊 Simulation & RTL Validation
 📈 Functional Simulation
@@ -106,9 +106,9 @@ This project involves the design and verification of a Parameterized Synchronous
  Every project is an opportunity to deepen my understanding of digital design concepts and improve my RTL development and verification skills. I look forward to exploring more complex designs and expanding my knowledge of front-end VLSI design and verification.
  
 👩‍💻 Author
-SAILAJA PATNANA
-B.Tech (Electrical & Electronics Engineering)
-VLSI Front-End Design | RTL Design & Verification Enthusiast
+* SAILAJA PATNANA
+* B.Tech (Electrical & Electronics Engineering)
+* VLSI Front-End Design | RTL Design & Verification Enthusiast
 
 🔗 GitHub: 
 
